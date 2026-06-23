@@ -1,10 +1,27 @@
-*{
-    font-family:monospace;  
+* body{
+    color:rgb(196, 196, 196)
 }
-h1 {
-    color:rgb(129, 63, 63);
-    text-decoration: underline;
+
+{
+    font-family:monospace;
+
+}
+
+
+h2 {
+
+    font-family: Arial, Helvetica, sans-serif;
+
     
 }
-*{background-color:rgb(216, 216, 216);}
-
+*{background-color:rgb(27, 25, 36);}
+li {
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+font-size: xx-large;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+main{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
